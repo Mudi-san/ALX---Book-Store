@@ -3,7 +3,7 @@
 ### Mohamed Abdalla (Backend)
 ### Mohamed Medani (Frontend)
 
-![full-stack-book-store-mern-project](/frontend/src/assets/github-cover.png)
+![full-stack-book-store-ALX-project](/Front-end/src/assets/github-cover.png)
 
 ## To run the project:
 
